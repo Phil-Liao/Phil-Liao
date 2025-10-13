@@ -7,7 +7,7 @@ I'm a student and developer from Taiwan with a passion for creating cool project
 *   🔭 I’m currently working on expanding my portfolio with more projects.
 *   🌱 I’m currently learning more about AI and machine learning.
 *   💬 Ask me about Python, robotics, or my projects!
-*   📫 How to reach me: [phill.free.nf](http.phill.free.nf)
+*   📫 How to reach me: https://www.phill.free.nf
 *   😄 Pronouns: He/Him
 *   ⚡ Fun fact: I believe in staying positive and having fun!
 
